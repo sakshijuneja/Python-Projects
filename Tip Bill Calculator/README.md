@@ -4,4 +4,4 @@
 - And it asks you finally,what percentage tip would you like to give?
 - Now it's going to calculate what each person should pay, taking into account all of these pieces of information that you've put in.
  
-![Tip Bill Calculator]Output.jpg 
+![Tip Bill Calculator]Tip Bill Calculator/Output.jpg
