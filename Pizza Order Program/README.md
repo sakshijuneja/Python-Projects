@@ -1,4 +1,5 @@
 <h2> AUTOMATIC PIZZA ORDER PROGRAM </h2>
+
 **Conditions**
 - Small Pizza: Rs.150
 - Medium Pizza: Rs.200
