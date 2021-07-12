@@ -1,4 +1,4 @@
-<h2> AUTOMATIC PIZZA ORDER PROGRAM </h2>
+<h2> AUTOMATIC PIZZA ORDER PROGRAM 🍕</h2>
 
 **Conditions**
 - Small Pizza: Rs.150
