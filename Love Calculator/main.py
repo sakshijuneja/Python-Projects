@@ -13,3 +13,10 @@ elif love_score>40 and love_score<50:
   print("Your score is ",love_score, ",you are alright together.")
 else: 
   print("Your score is ",love_score)
+  
+  
+  
+# #  Another similar program
+# import random
+# love_score= random.randint(1,100)
+# print("Your score is ",love_score)
