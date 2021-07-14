@@ -1,0 +1,1 @@
+A program that allows you to mark a square (a spot with an X) on the map using a two-digit system. The first digit is the vertical column number and the second digit is the horizontal row number.
